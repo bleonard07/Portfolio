@@ -27,7 +27,7 @@ h2{
 }
 
 a.font-black{
-    color: #000; !important
+    color: #000 !important;
 }
 
 /**************
@@ -46,6 +46,7 @@ ABOUT
     border-radius: 50%;
     width: 120px;
     margin-bottom: 10px;
+    height: 124px;
 }
 
 #about .name{
