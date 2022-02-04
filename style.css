@@ -27,6 +27,7 @@ h2{
 }
 
 a.font-black{
+    font-weight: bold;
     color: black !important;
 }
 
